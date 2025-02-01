@@ -1,13 +1,13 @@
 {
-    "name": "HastaStudiosLauncher",
-    "version": "2.0.7",
-    "productName": "Hasta Studios Launcher",
-    "description": "Oficial Laucnher For All Hasta Studios And ZSMP Projects",
-    "author": "Shisuys (https://github.com/shisuiicaro/)",
+    "name": "SDJStudiosLauncher",
+    "version": "1.1.0",
+    "productName": "SDJ Studios Launcher",
+    "description": "Launcher oficial de SDJ Studios",
+    "author": "muxp (https://github.com/martinuwux)",
     "license": "UNLICENSED",
     "homepage": "https://github.com/Shisuiicaro/HastaStudiosLauncher",
     "bugs": {
-        "url": "https://discord.gg/zsmp"
+        "url": "https://discord.gg/wr9JuG8Ue2"
     },
     "private": true,
     "main": "index.js",

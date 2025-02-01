@@ -1,8 +1,8 @@
-appId: 'HastaStudiosLauncher'
-productName: 'Hasta Studios Launcher'
+appId: 'SDJStudiosLauncher'
+productName: 'SDJ Studios Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Shisuys'
+copyright: 'Copyright © 2025 SDJ Studios'
 
 asar: true
 compression: 'maximum'
