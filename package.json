@@ -5,7 +5,7 @@
     "description": "Launcher oficial de SDJ Studios",
     "author": "muxp (https://github.com/martinuwux)",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/Shisuiicaro/HastaStudiosLauncher",
+    "homepage": "https://github.com/martinUwUx/SDJ-Studios-Launcher",
     "bugs": {
         "url": "https://discord.gg/wr9JuG8Ue2"
     },
@@ -47,6 +47,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Shisuiicaro/HastaStudiosLauncher.git"
+        "url": "git+https://github.com/martinUwUx/SDJ-Studios-Launcher.git"
     }
 }
