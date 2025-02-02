@@ -15,3 +15,8 @@ A cracked fork of helios launcher for SDJ Studios proyects.
   - Credentials are never stored and transmitted directly to SDJ Studios or Microsoft.
 
 
+## Usage
+
+1. Download the launcher from [here](https://github.com/martinUwUx/SDJ-Studios-Launcher/releases/tag/v1.1.0-SDJ).
+2. Install it on your system.
+3. Run the launcher and enjoy.
